@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 * 🎮 Skilled in **Game Development** (Unity with C#, Unreal Engine with Blueprints & C++)
-* 📱 Experience in **Websites, Android Apps, and Browser Extensions**
+* 📱 Experience in **Websites, Android Apps, Flutter (Dart), and Browser Extensions**
 * 🤝 Freelanced & built projects for **customers and real-world clients**
 * 🤖 Currently diving deep into **Agentic AI**
-* 🧑‍💻 Knowledgeable in **Python, Java, C, C++, C#, HTML, CSS, JavaScript, SQL**
+* 🧑‍💻 Knowledgeable in **Python, Java, C, C++, C#, HTML, CSS, JavaScript, SQL, Dart**
 * 🌟 Passionate about **building, learning, and collaborating** on projects that make an impact
 
 ---
@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
 **Game Dev:**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
@@ -34,27 +35,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
----
-
-## 🌟 GitHub Highlights
-
-📊 **My GitHub Stats**
-![Shihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbshihan\&show_icons=true\&theme=radical)
-
-🔥 **Streak Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbshihan\&theme=radical)
-
-📌 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbshihan\&layout=compact\&theme=radical)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ---
 
 ## 🤝 Let’s Connect
 
-🌐 [Portfolio Website](#) (Coming soon!)
-💼 Open to **collaborations & freelance projects**
-📫 Reach me via GitHub or [LinkedIn](#)
+📫 Email: **[cbshihan@gmail.com](mailto:cbshihan@gmail.com)**
 
 ---
 
