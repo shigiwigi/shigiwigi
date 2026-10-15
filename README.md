@@ -1,15 +1,32 @@
-# C B Shihan
+<div align="center">
 
-**Head of R&D @ SpinX | Embedded Systems, AI & Full-Stack Developer**
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=C+B+Shihan;Head+of+R%26D+%40+SpinX;Embedded+Systems+%26+IoT+Prototyping;AI%2C+Computer+Vision+%26+Full-Stack+Dev" alt="Typing SVG" />
+  </a>
 
-*Building end-to-end solutions—bridging microcontroller firmware and IoT prototypes with modern web backends, computer vision, and client applications.*
+  <p align="center">
+    <i>Building end-to-end solutions—bridging microcontroller firmware and IoT prototypes with modern web backends, computer vision, and client applications.</i>
+  </p>
+
+  <!-- Sleek Dark-Mode Contact Badges -->
+  <p align="center">
+    <a href="mailto:cbshihan@gmail.com">
+      <img src="https://img.shields.io/badge/Email-cbshihan%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+    </a>
+    <a href="https://instagram.com/shigi_wigi_">
+      <img src="https://img.shields.io/badge/Instagram-%40shigi__wigi__-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## About Me
 
 * **R&D Leadership:** Leading Research and Development at **SpinX**, guiding technical prototyping, systems architecture, and engineering training bootcamps.
-* **End-to-End Builder:** Comfortable working across the entire development cycle—from writing firmware and wiring sensors to deploying full-stack dashboards and mobile apps.
+* **End-to-End Builder:** Working across the entire development cycle—from writing firmware and wiring sensors to deploying full-stack dashboards and mobile apps.
 * **Embedded Systems & IoT:** Developing firmware and hardware prototypes using **ESP32**, **STM32**, and **Arduino** with **PlatformIO**, alongside rapid prototyping with 3D fabrication.
 * **AI & Computer Vision:** Implementing real-time tracking, object detection pipelines (**YOLOv8**, **OpenCV**, **CUDA**), and working with **LLM engineering** and agentic workflows.
 * **Full-Stack & Mobile Development:** Creating cross-platform applications and real-time interfaces using **React**, **Vite**, **Tailwind CSS**, **Flutter**, **Firebase**, and **Kotlin**.
@@ -20,40 +37,35 @@
 
 ## Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Embedded Systems & Prototyping
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,kotlin,cs,java,postgres" alt="Languages" /> |
+| **Embedded & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=E7352C) ![STM32](https://img.shields.io/badge/STM32-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B) ![Arduino](https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D) ![PlatformIO](https://img.shields.io/badge/PlatformIO-161B22?style=for-the-badge&logo=platformio&logoColor=FF7F00) |
+| **AI & Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![YOLOv8](https://img.shields.io/badge/YOLOv8-161B22?style=for-the-badge&logo=ultralytics&logoColor=00FFFF) ![CUDA](https://img.shields.io/badge/CUDA-161B22?style=for-the-badge&logo=nvidia&logoColor=76B900) |
+| **Web & Mobile** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,firebase,html,css" alt="Web and Mobile" /> |
+| **3D, Game Dev & OS** | <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arch,linux,git" alt="Tools" /> |
 
-### AI & Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
-![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+</div>
 
-### Web & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <sub><i>Also experienced with browser extensions and cross-platform development across Arch Linux and Windows environments.</i></sub>
+</p>
 
-### Game Dev, 3D & Tools
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-*Also experienced with native HTML5/CSS3, browser extensions, and cross-platform development across Linux
+## GitHub Activity & Overview
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shigiwigi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shigiwigi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shigiwigi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shigiwigi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
