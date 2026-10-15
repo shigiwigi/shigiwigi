@@ -35,37 +35,13 @@
 
 ---
 
-## Tech Stack
+## System Architecture & Focus
 
-<div align="center">
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,kotlin,cs,java,postgres" alt="Languages" /> |
-| **Embedded & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=E7352C) ![STM32](https://img.shields.io/badge/STM32-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B) ![Arduino](https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D) ![PlatformIO](https://img.shields.io/badge/PlatformIO-161B22?style=for-the-badge&logo=platformio&logoColor=FF7F00) |
-| **AI & Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![YOLOv8](https://img.shields.io/badge/YOLOv8-161B22?style=for-the-badge&logo=ultralytics&logoColor=00FFFF) ![CUDA](https://img.shields.io/badge/CUDA-161B22?style=for-the-badge&logo=nvidia&logoColor=76B900) |
-| **Web & Mobile** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,firebase,html,css" alt="Web and Mobile" /> |
-| **3D, Game Dev & OS** | <img src="https://skillicons.dev/icons?i=unity,unreal,blender,arch,linux,git" alt="Tools" /> |
-
-</div>
-
-<p align="center">
-  <sub><i>Also experienced with browser extensions and cross-platform development across Arch Linux and Windows environments.</i></sub>
-</p>
-
----
-
-## GitHub Activity & Overview
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shigiwigi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shigiwigi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shigiwigi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shigiwigi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+```text
+┌───────────────────────────┐     ┌───────────────────────────┐     ┌───────────────────────────┐
+│   Embedded & Hardware     │     │    AI & Edge Computing    │     │   Full-Stack & Client     │
+├───────────────────────────┤     ├───────────────────────────┤     ├───────────────────────────┤
+│ • ESP32 / STM32 Firmware  │ ──► │ • YOLOv8 Object Detection │ ──► │ • React / Vite / Tailwind │
+│ • Sensor & IMU Telemetry  │     │ • OpenCV / CUDA Pipelines │     │ • Flutter Mobile Apps     │
+│ • 3D Printed Enclosures   │     │ • LLM & Agentic Workflows │     │ • Firebase Real-Time DB   │
+└───────────────────────────┘     └───────────────────────────┘     └───────────────────────────┘
